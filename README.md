@@ -1,2 +1,2 @@
 # A Random Quote Generator
- first project of teamtreehouse techdegree
+ my first project of teamtreehouse techdegree
