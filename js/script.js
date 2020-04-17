@@ -25,7 +25,7 @@ var quotes = [{
         tags: "one"
     },
     {
-        quote: "If you can’t fly, run, if you can’t run, walk; if you can’t walk, crawl; but by all means keep moving.",
+        quote: "If you can't fly, then run. If you can't run, then walk. If you can't walk, then crawl. but whatever you do, you have to keep moving forward.",
         source: "Martin Luther King Jr",
         citation: "Keep Moving from this Mountain",
         year: "1960"
