@@ -18,7 +18,7 @@ var quotes = [{
         tags: ",post"
     },
     {
-        quote: "If one loves, one need not have an ideology of love .",
+        quote: "If one loves, one need not have an ideology of love.",
         source: "Bruce Lee",
         citation: "The Warrior Within : The Philosophies of Bruce Lee",
         year: 1996,
