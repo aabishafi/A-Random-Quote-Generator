@@ -106,7 +106,7 @@ function printQuote() {
     //variable to store getRandomQuote() function
     let randomQuote = getRandomQuote();
     // variable to store html string to be added
-    let par = `<p class="quotes"> ${randomQuote.quote}</p>`
+    let par = `<p class="quote"> ${randomQuote.quote}</p>`
     par += `<p class="source">${randomQuote.source}</p>`;
 
     //if statement to check some quote properties
