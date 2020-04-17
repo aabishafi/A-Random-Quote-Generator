@@ -22,7 +22,7 @@ var quotes = [{
         source: "Bruce Lee",
         citation: "The Warrior Within : The Philosophies of Bruce Lee",
         year: 1996,
-        tags: "one"
+        tags: ["one"]
     },
     {
         quote: "If you can't fly, then run. If you can't run, then walk. If you can't walk, then crawl. but whatever you do, you have to keep moving forward.",
