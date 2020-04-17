@@ -15,14 +15,14 @@ var quotes = [{
         source: 'George Washington',
         citation: "Letter to Benedict Arnold",
         year: 1775,
-        tags: ",post"
+        tags: "post"
     },
     {
         quote: "If one loves, one need not have an ideology of love.",
         source: "Bruce Lee",
         citation: "The Warrior Within : The Philosophies of Bruce Lee",
         year: 1996,
-        tags: ",one"
+        tags: "one"
     },
     {
         quote: "If you can't fly, then run. If you can't run, then walk. If you can't walk, then crawl. but whatever you do, you have to keep moving forward.",
@@ -47,7 +47,7 @@ var quotes = [{
         source: "Muhammad",
         citation: "as quoted in Al-Islam by khwajah kamal al-dini",
         year: 1926,
-        tags: ",faith"
+        tags: "faith"
     },
     {
         quote: "i cannot live without books.",
@@ -72,7 +72,7 @@ var quotes = [{
         source: "William Shakespear",
         citation: "William Shakespeare, Henry VIII",
         year: 1613,
-        tags: ",success"
+        tags: "success"
     }
 ]
 
@@ -97,7 +97,7 @@ function getRandomQuote() {
 }
 getRandomQuote();
 //testing function above
-console.log(getRandomQuote(quotes));
+console.log(getRandomQuote());
 
 /***
  * `printQuote` function
